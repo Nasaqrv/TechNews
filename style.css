@@ -1,0 +1,32 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #292ba7;
+}
+#cabecalho-principal {
+    background-color: #000000;
+    color: aliceblue;
+    text-align: center;
+}
+.card-noticia{
+border:#292ba7;
+padding: 20px;
+margin-bottom: 15px;
+border-bottom: 10px;
+}
+.botao{
+    border: none;
+    background-color:#292ba7 ;
+    color:aliceblue;
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.alerta{
+    font-weight: bold;
+    color:#292ba7;
+}
+.destaque{
+    border-color: chocolate;
+    background-color: aliceblue;
+}
